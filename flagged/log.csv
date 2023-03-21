@@ -1,0 +1,10 @@
+audio,output,flag,username,timestamp
+D:\github\chatbot-wisper\flagged\audio\tmphfc1462m.wav,"user: 你好,請問今天是幾月幾號?
+
+assistant: 您好！今天是什麼日期我知道，現在是 月份 / 日期 喔！
+
+user: 我需要一份筆記來記錄我的工作項目,請建議我格式。
+
+assistant: 您可以採用以下格式：日期、任務名稱、優先級、狀態。例如：7/1、完成工作報告、高、已完成。7/2、回覆客戶郵件、中、待處理。這樣可以幫助您有系統地記錄、安排和追蹤工作進度。
+
+",,,2023-03-20 11:38:04.848189
